@@ -1,0 +1,15 @@
+html{
+    background-color: white
+}
+
+h1, h2, h3 {
+    font-family: Open sana:
+}
+
+h1{
+    ex:bold
+}
+
+h2{
+    ex: 2rem, 1.125em, 24px
+}
